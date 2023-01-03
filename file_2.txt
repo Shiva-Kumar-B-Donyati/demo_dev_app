@@ -1,0 +1,13 @@
+to add/push files in github from local repo:
+
+git add .
+git commit -m "indication msg"
+git push
+
+
+frequently used commands:
+
+git status -s
+git pull
+git log --oneline
+git log

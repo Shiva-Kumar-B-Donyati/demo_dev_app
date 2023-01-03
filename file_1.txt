@@ -1,1 +1,12 @@
-file 1
+file 1:
+
+Initial steps to be performed in git bash
+when created new repo in github
+
+echo "# pyqt5-finger-zkteco" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tekashifuta/pyqt5-finger-zkteco.git
+git push -u origin main

@@ -11,3 +11,10 @@ git status -s
 git pull
 git log --oneline
 git log
+
+
+// Example for creating a new branch named myNewBranch
+git checkout -b myNewBranch
+
+// First Push
+git push --set-upstream origin myNewBranch

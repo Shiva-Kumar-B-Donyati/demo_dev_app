@@ -15,6 +15,9 @@ git status -s
 git pull
 git log --oneline
 git log
+git branch
+You can instead skip this commit with "git revert --skip"
+To abort and get back to the state before "git revert"
 =====================================================================================================================
 
 

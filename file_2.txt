@@ -42,3 +42,7 @@ git push origin --delete remoteBranchName
 // refresh branch list
 git fetch -p
 =====================================================================================================================
+
+
+Note to self:
+git reset, git rebase, git revert , git stash

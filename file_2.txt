@@ -17,6 +17,8 @@ git log --oneline
 git log
 git branch
 git reset -> used to undo local changes to the state of a Git repo
+git stash -> takes your uncommitted changes saves them for later use
+
 You can instead skip this commit with "git revert --skip"
 To abort and get back to the state before "git revert"
 =====================================================================================================================
